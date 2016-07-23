@@ -1,0 +1,2 @@
+laundry liquids 8.6L:   39
+carpet:                 2.4
